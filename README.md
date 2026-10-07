@@ -6,6 +6,7 @@ A React-based Student Placement Dashboard designed to help students manage place
 ## 🚀 Live Demo
 
 http://localhost:5173/
+http://localhost:5173/
 
 ## 📌 Project Features
 
